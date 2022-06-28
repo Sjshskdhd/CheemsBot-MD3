@@ -48,11 +48,12 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Elgazar bit" //ur bot name
+global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.author = "☬𝑬𝑳𝑮𝑨𝒁𝑨𝑹༒𝑨𝑳𝑾𝑨𝒁𝑬𝑹-𝑩𝑶𝑻࿐
+"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['ur number'] //ur owner tag
